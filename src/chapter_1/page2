@@ -1,0 +1,13 @@
+package day02_HelloWorld;
+
+public class HelloWorld {
+
+    public static void main(String[] args) {   // This is main methıd
+
+        System.out.println("Hello Coşkun");   // it prints "Hello World" to console
+
+
+    }
+
+
+}

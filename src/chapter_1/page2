@@ -2,12 +2,23 @@ package day02_HelloWorld;
 
 public class HelloWorld {
 
+
     public static void main(String[] args) {
 
         System.out.println("Hello Coşkun");
 System.out.println("Hello to us");
  System.out.println("Hello Coşkun");
  System.out.println("Hello Coşkunnnn");
+ 
+ {
+
+    public static void main(String[] args) {   // This is main methıd
+
+       System.out.println("Hello Coşkun");
+System.out.println("Hello to us");
+ System.out.println("Hello Coşkun");
+ System.out.println("Hello Coşkunnnn");
+
 
     }
 
